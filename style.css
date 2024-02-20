@@ -108,6 +108,7 @@ main img.pequena{
 }
 
 main p {
+    min-width: 250px;
     font: 1em;
     margin: 15px 0px;
     text-align: justify;
